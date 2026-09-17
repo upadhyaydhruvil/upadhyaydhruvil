@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="dhruvilu2@gmail.com">
+<a href="mailto:dhruvilu2@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
