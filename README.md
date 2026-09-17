@@ -20,3 +20,47 @@
 </a>
 
 </p>
+<h2>⚡ ABOUT ME</h2>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<h3>👨‍💻 Who Am I?</h3>
+
+<samp>
+I'm Dhruvil Upadhyay, a Computer Science student
+specialising in Artificial Intelligence & Machine Learning.
+</samp>
+
+<br><br>
+
+<samp>
+I enjoy building intelligent systems, exploring machine
+learning algorithms, and turning ideas into practical
+AI-powered applications.
+</samp>
+
+<br><br>
+
+<b>🧠 Interests</b>
+
+<br><br>
+
+<samp>
+• Artificial Intelligence & Machine Learning<br>
+• Deep Learning & Generative AI<br>
+• Computer Vision<br>
+• RAG & Large Language Models<br>
+• Full-Stack Development
+</samp>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./your-image.png" width="300px">
+
+</td>
+</tr>
+</table>
