@@ -3,10 +3,7 @@
 </p>
 <p align="center">
 
-<a href="www.linkedin.com/in/
-upadhyaydhruvil
-Vanity URL name
-">
+<a href="www.linkedin.com/in/upadhyaydhruvil">
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
