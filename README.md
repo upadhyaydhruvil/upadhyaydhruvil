@@ -3,24 +3,23 @@
 </p>
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="www.linkedin.com/in/
+upadhyaydhruvil
+Vanity URL name
+">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_DISCORD_URL">
-<img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="dhruvilu2@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_X_URL">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://x.com/oficialdhruvil">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="YOUR_OUTLOOK_EMAIL">
-<img src="https://img.shields.io/badge/OUTLOOK-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-</a>
-
-<a href="YOUR_STACKOVERFLOW_URL">
-<img src="https://img.shields.io/badge/STACK%20OVERFLOW-000000?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+<a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/upadhyay_dhruvil?stkn=MWR1eG5ua2IzeWdyNA==)">
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
