@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 
-<a href="www.linkedin.com/in/upadhyaydhruvil">
+<a href="https://www.linkedin.com/in/upadhyaydhruvil/">
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/upadhyay_dhruvil?stkn=MWR1eG5ua2IzeWdyNA==)">
+<a href="https://www.instagram.com/upadhyay_dhruvil?stkn=MWR1eG5ua2IzeWdyNA==">
   <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
