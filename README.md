@@ -29,19 +29,10 @@
 <h3>👨‍💻 Who Am I?</h3>
 
 <samp>
-I'm Dhruvil Upadhyay, a Computer Science student
-specialising in Artificial Intelligence & Machine Learning.
+Artificial Intelligence And Machine Learning Student | Passionate About Machine Learning, Web Development
 </samp>
 
-<br><br>
 
-<samp>
-I enjoy building intelligent systems, exploring machine
-learning algorithms, and turning ideas into practical
-AI-powered applications.
-</samp>
-
-<br><br>
 
 <b>🧠 Interests</b>
 
