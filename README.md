@@ -20,49 +20,78 @@
 </a>
 
 </p>
-<h2 style="text-align: center; font-style: italic;">♟️ ABOUT ME</h2>
+<h2 align="center">
+  🧑‍💻 <i>About me</i>
+</h2>
+
+---
 
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-<samp>
-
-Hello There! I'm <b>Dhruvil Upadhyay</b>, an Artificial Intelligence and Machine Learning student currently pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering with a specialisation in Artificial Intelligence and Machine Learning at Ganpat University – Institute of Computer Technology, following the completion of my Diploma in Computer Engineering from VPMP Polytechnic, Gandhinagar.
+Hello There! I'm <b>Dhruvil Upadhyay</b>, an
+<b>Artificial Intelligence & Machine Learning Student</b> pursuing
+a Bachelor of Technology (B.Tech) in Computer Science and Engineering
+with a specialisation in Artificial Intelligence and Machine Learning
+at Ganpat University – Institute of Computer Technology, following
+the completion of my Diploma in Computer Engineering from VPMP
+Polytechnic, Gandhinagar.
 
 <br><br>
 
-Passionate about Artificial Intelligence, Machine Learning, Data Science, Generative AI, Computer Vision and Software Development. I have hands-on experience with Python, Java, C, SQL, HTML, CSS, JavaScript, Flask, Django, MySQL, Git and GitHub.
-
-<br><br>
-
-Committed to continuous learning, solving challenging problems and building innovative technology-driven solutions.
-
-</samp>
+Passionate about Artificial Intelligence, Machine Learning, Generative AI,
+Computer Vision, RAG, Large Language Models and Software Development.
+I enjoy building intelligent systems, exploring emerging technologies
+and turning ideas into practical solutions.
 
 <br><br>
 
 <p align="center">
-
-🧠 <b>AI & Machine Learning</b><br>
-🤖 <b>Generative AI & LLMs</b><br>
-👁️ <b>Computer Vision & RAG</b><br>
-🌐 <b>Full-Stack Development</b><br>
-⚡ <b>Building • Learning • Exploring</b>
-
+  🧠 <i><b>Artificial Intelligence & Machine Learning</b></i><br>
+  🤖 <i><b>Generative AI & Large Language Models</b></i><br>
+  👁️ <i><b>Computer Vision & RAG</b></i><br>
+  💻 <i><b>Software & Full-Stack Development</b></i><br>
+  ♟️ <i><b>Problem Solver & Technology Explorer</b></i>
 </p>
 
 </td>
 
-<td width="40%" align="center">
+<td width="35%" align="center">
 
-<img src="./Space Falling GIF by varundo.gif" width="300px">
+<img src="./Space Falling GIF by varundo.gif" width="280px">
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<h2 align="center">
+  ⚙️ <i>Technologies</i>
+</h2>
+
+---
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,ts,html,css,react,django,flask,nodejs,tailwind,bootstrap,mysql,mongodb,git,github,linux,docker,figma&perline=7">
+
+</p>
+
+<br>
+
+<h2 align="center">
+  💭 <i>Quote</i>
+</h2>
+
+---
+
+<p align="center">
+  <i>"Build intelligently. Learn relentlessly. Create without limits."</i>
+</p>
 
 
 
