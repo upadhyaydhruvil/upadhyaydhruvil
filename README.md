@@ -50,7 +50,7 @@ Artificial Intelligence And Machine Learning Student | Passionate About Machine 
 
 <td width="40%" align="center">
 
-<img src="./your-gif.gif" width="300px">
+<img src="./Space Falling GIF by varundo.gif" width="300px">
 
 </td>
 </tr>
@@ -70,6 +70,4 @@ Artificial Intelligence And Machine Learning Student | Passionate About Machine 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upadhyaydhruvil&show_icons=true&locale=en" alt="upadhyaydhruvil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upadhyaydhruvil&" alt="upadhyaydhruvil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upadhyaydhruvil&" alt="upadhyaydhruvil" /></p>
