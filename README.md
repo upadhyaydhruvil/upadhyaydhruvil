@@ -48,11 +48,11 @@ solutions.
 <br><br>
 
 <p align="center">
-  🧠 <i><b>Artificial Intelligence & Machine Learning</b></i><br>
-  🤖 <i><b>Generative AI & Large Language Models</b></i><br>
-  👁️ <i><b>Computer Vision & RAG</b></i><br>
-  💻 <i><b>Software & Full-Stack Development</b></i><br>
-  ♟️ <i><b>Chess Player</b></i>
+  <i><b>Artificial Intelligence & Machine Learning</b></i><br>
+   <i><b>Generative AI & Large Language Models</b></i><br>
+   <i><b>Computer Vision & RAG</b></i><br>
+   <i><b>Software & Full-Stack Development</b></i><br>
+   <i><b>Chess Player</b></i>
 </p>
 
 </td>
@@ -68,15 +68,7 @@ solutions.
 
 <br>
 
-<h2 align="center">
-  ⚙️ <i>Languages and Tools</i>
-</h2>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,django,flask,php,nodejs,mysql,mongodb,git,github,figma,postman,bootstrap,tailwind&perline=10">
-
-</p>
 
 
 <p align="left">
