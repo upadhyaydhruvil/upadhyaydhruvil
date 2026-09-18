@@ -37,7 +37,7 @@ at Ganpat University – Institute of Computer Technology, following
 the completion of my Diploma in Computer Engineering from VPMP
 Polytechnic, Gandhinagar.
 
-<br><br>
+<br>
 
 Passionate about <b>Artificial Intelligence, Machine Learning,
 Generative AI, Computer Vision, RAG, Large Language Models</b> and
