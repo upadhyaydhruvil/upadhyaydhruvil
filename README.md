@@ -20,7 +20,7 @@
 </a>
 
 </p>
-<h2> <center><i><b>ABOUT ME<b/><i/></center>                          
+<h2 style="text-align: center; font-style: italic;">ABOUT ME</h2>               
 
 <table>
 <tr>
