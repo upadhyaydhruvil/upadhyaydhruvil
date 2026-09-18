@@ -20,7 +20,7 @@
 </a>
 
 </p>
-<h2>⚡ ABOUT ME</h2>
+<h2>                                                   ⚡ ABOUT ME</h2>
 
 <table>
 <tr>
