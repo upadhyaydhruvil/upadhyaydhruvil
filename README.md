@@ -29,21 +29,9 @@
 <h3>👨‍💻 Who Am I?</h3>
 
 <samp>
-Artificial Intelligence And Machine Learning Student | Passionate About Machine Learning, Web Development
-</samp>
+Driven by a passion for Artificial Intelligence and emerging technologies, currently pursuing a Bachelor of Technology (B.Tech) in Computer Science and Engineering with a specialisation in Artificial Intelligence and Machine Learning at Ganpat University-Institute of Computer Technology following the completion of a Diploma in Computer Engineering from VPMP Polytechnic, Gandhinagar.
 
-<br><br>
-
-<b>🧠 Interests</b>
-
-<br><br>
-
-<samp>
-• Artificial Intelligence & Machine Learning<br>
-• Deep Learning & Generative AI<br>
-• Computer Vision<br>
-• RAG & Large Language Models<br>
-• Full-Stack Development
+Passionate about Artificial Intelligence, Machine Learning, Data Science and Software Development, with hands-on experience in Python, Java, C, SQL, HTML, CSS, JavaScript, Flask, Django, MySQL, Git and GitHub. Committed to continuous learning, solving complex challenges and developing innovative, technology-driven solutions. Keen to connect with industry professionals and contribute to impactful projects while expanding technical expertise.
 </samp>
 
 </td>
