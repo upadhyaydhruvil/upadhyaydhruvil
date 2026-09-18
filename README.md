@@ -21,10 +21,8 @@
 
 </p>
 <h2 align="center">
-  🧑‍💻 <i>About me</i>
+  ♟️ <i>About me</i>
 </h2>
-
----
 
 <table>
 <tr>
@@ -41,10 +39,11 @@ Polytechnic, Gandhinagar.
 
 <br><br>
 
-Passionate about Artificial Intelligence, Machine Learning, Generative AI,
-Computer Vision, RAG, Large Language Models and Software Development.
-I enjoy building intelligent systems, exploring emerging technologies
-and turning ideas into practical solutions.
+Passionate about <b>Artificial Intelligence, Machine Learning,
+Generative AI, Computer Vision, RAG, Large Language Models</b> and
+Software Development. I enjoy building intelligent systems,
+exploring emerging technologies and turning ideas into practical
+solutions.
 
 <br><br>
 
@@ -53,7 +52,7 @@ and turning ideas into practical solutions.
   🤖 <i><b>Generative AI & Large Language Models</b></i><br>
   👁️ <i><b>Computer Vision & RAG</b></i><br>
   💻 <i><b>Software & Full-Stack Development</b></i><br>
-  ♟️ <i><b>Problem Solver & Technology Explorer</b></i>
+  ♟️ <i><b>Chess Player</b></i>
 </p>
 
 </td>
@@ -70,29 +69,14 @@ and turning ideas into practical solutions.
 <br>
 
 <h2 align="center">
-  ⚙️ <i>Technologies</i>
+  ⚙️ <i>Languages and Tools</i>
 </h2>
-
----
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,ts,html,css,react,django,flask,nodejs,tailwind,bootstrap,mysql,mongodb,git,github,linux,docker,figma&perline=7">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,django,flask,php,nodejs,mysql,mongodb,git,github,figma,postman,bootstrap,tailwind&perline=10">
 
 </p>
-
-<br>
-
-<h2 align="center">
-  💭 <i>Quote</i>
-</h2>
-
----
-
-<p align="center">
-  <i>"Build intelligently. Learn relentlessly. Create without limits."</i>
-</p>
-
 
 
 <p align="left">
