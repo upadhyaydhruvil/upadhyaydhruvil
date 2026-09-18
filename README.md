@@ -32,7 +32,7 @@
 Artificial Intelligence And Machine Learning Student | Passionate About Machine Learning, Web Development
 </samp>
 
-
+<br><br>
 
 <b>🧠 Interests</b>
 
@@ -50,7 +50,7 @@ Artificial Intelligence And Machine Learning Student | Passionate About Machine 
 
 <td width="40%" align="center">
 
-<img src="./your-image.png" width="300px">
+<img src="./your-gif.gif" width="300px">
 
 </td>
 </tr>
